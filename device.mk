@@ -67,7 +67,7 @@ PRODUCT_VENDOR_PROPERTIES += \
     ro.hardware.kmsetkey=beanpod
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    keymaster_ver=4.0
+    keymaster_ver=4.1
 
 # Logging
 PRODUCT_VENDOR_PROPERTIES += \
